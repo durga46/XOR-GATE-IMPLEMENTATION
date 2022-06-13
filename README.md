@@ -24,6 +24,12 @@ The information of a neural network is stored in the interconnections between th
 
 6.Now test the model with testing data.
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Program:
 ```python
 /*
@@ -54,6 +60,26 @@ scores = model.evaluate(training_data, target_data)
 print("\n%s: %.2f%%" %(model.metrics_names[1], scores[1]*100))
 print(model.predict(training_data).round())
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Output:
 ![sd4](https://user-images.githubusercontent.com/75235704/170968424-2fbfaf1b-20d8-41fe-b802-8c02f45b5f74.png)
